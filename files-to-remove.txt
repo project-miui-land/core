@@ -1,0 +1,7 @@
+lib/modules/*
+vendor/lib/libactuator*
+vendor/lib/libchromatix*
+vendor/lib/libmmcamera*
+vendor/lib64/libactuator*
+vendor/lib64/libchromatix*
+vendor/lib64/libmmcamera*
